@@ -16,5 +16,5 @@ Uppgift 1 rörde sig om att ändra "Hello World!" till valfri textutdrag. Jag va
 
 Bilder läggs i samma mapp som markdown-filen.
 
-![](hejsan!.png)
+![](hejsan.png)
 
