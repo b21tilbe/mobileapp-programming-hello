@@ -13,8 +13,7 @@ Uppgift 1 rörde sig om att ändra "Hello World!" till valfri textutdrag. Jag va
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 ```
-
-Bilder läggs i samma mapp som markdown-filen.
+Bild på vad koden gör kan bli funnen nedan:
 
 ![](hejsan.png)
 
